@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="2010 - Winter Party/Stem Cell Retreat"
+
+>
+  <image imageURL="images/203opening.jpg"
+	thumbURL="thumbs/203opening.jpg"
+	linkURL="images/203opening.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2010 - Winter party-Stem Cell retreat/203opening.jpg">
+    <title><![CDATA[203opening]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/asilomar.jpg"
+	thumbURL="thumbs/asilomar.jpg"
+	linkURL="images/asilomar.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2010 - Winter party-Stem Cell retreat/asilomar.jpg">
+    <title><![CDATA[asilomar]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/asilomar2.jpg"
+	thumbURL="thumbs/asilomar2.jpg"
+	linkURL="images/asilomar2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2010 - Winter party-Stem Cell retreat/asilomar2.jpg">
+    <title><![CDATA[asilomar2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_9621.jpg"
+	thumbURL="thumbs/IMG_9621.jpg"
+	linkURL="images/IMG_9621.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2010 - Winter party-Stem Cell retreat/IMG_9621.jpg">
+    <title><![CDATA[IMG_9621]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

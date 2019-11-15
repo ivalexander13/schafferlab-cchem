@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="2008 - Ski trip, Lake Tahoe"
+	showOpenButton="true"
+
+>
+  <image imageURL="images/DSC00598.jpg"
+	thumbURL="thumbs/DSC00598.jpg"
+	linkURL="images/DSC00598.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/DSC00598.jpg">
+    <title><![CDATA[DSC00598]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Gary&amp;Dave.jpg"
+	thumbURL="thumbs/Gary&amp;Dave.jpg"
+	linkURL="images/Gary&amp;Dave.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/Gary&amp;Dave.jpg">
+    <title><![CDATA[Gary&Dave]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/grouppic072.jpg"
+	thumbURL="thumbs/grouppic072.jpg"
+	linkURL="images/grouppic072.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/grouppic072.jpg">
+    <title><![CDATA[grouppic072]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/labpic.jpg"
+	thumbURL="thumbs/labpic.jpg"
+	linkURL="images/labpic.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/labpic.jpg">
+    <title><![CDATA[labpic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/labpic2.jpg"
+	thumbURL="thumbs/labpic2.jpg"
+	linkURL="images/labpic2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/labpic2.jpg">
+    <title><![CDATA[labpic2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/labpic3.jpg"
+	thumbURL="thumbs/labpic3.jpg"
+	linkURL="images/labpic3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/labpic3.jpg">
+    <title><![CDATA[labpic3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ski088.jpg"
+	thumbURL="thumbs/ski088.jpg"
+	linkURL="images/ski088.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/ski088.jpg">
+    <title><![CDATA[ski088]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ski0810.jpg"
+	thumbURL="thumbs/ski0810.jpg"
+	linkURL="images/ski0810.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/ski0810.jpg">
+    <title><![CDATA[ski0810]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ski0812.jpg"
+	thumbURL="thumbs/ski0812.jpg"
+	linkURL="images/ski0812.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/ski0812.jpg">
+    <title><![CDATA[ski0812]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ski0817.jpg"
+	thumbURL="thumbs/ski0817.jpg"
+	linkURL="images/ski0817.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/ski0817.jpg">
+    <title><![CDATA[ski0817]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/skiing_1.jpg"
+	thumbURL="thumbs/skiing_1.jpg"
+	linkURL="images/skiing_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2008 - Ski trip, Lake Tahoe/skiing_1.jpg">
+    <title><![CDATA[skiing_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

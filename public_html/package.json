@@ -1,0 +1,23 @@
+{
+  "name": "schafferlabweb",
+  "version": "1.0.0",
+  "description": "Website for the Schaffer Lab",
+  "main": "\"\"",
+  "dependencies": {
+    "csvtojson": "^0.3.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "convert": "node scripts/convertpeople.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donhmai/schafferlabweb.git"
+  },
+  "author": "Don Mai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donhmai/schafferlabweb/issues"
+  },
+  "homepage": "https://github.com/donhmai/schafferlabweb"
+}

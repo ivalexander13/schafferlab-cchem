@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Stem Cell Retreat: Asiloma"
+	useThumbDots="false"
+	showOpenButton="true"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/StemCell.jpg"
+	thumbURL="thumbs/StemCell.jpg"
+	linkURL="images/StemCell.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/StemCell.jpg">
+    <title><![CDATA[StemCell]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01985.jpg"
+	thumbURL="thumbs/DSC01985.jpg"
+	linkURL="images/DSC01985.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01985.jpg">
+    <title><![CDATA[DSC01985]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01791.jpg"
+	thumbURL="thumbs/DSC01791.jpg"
+	linkURL="images/DSC01791.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01791.jpg">
+    <title><![CDATA[DSC01791]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01834.jpg"
+	thumbURL="thumbs/DSC01834.jpg"
+	linkURL="images/DSC01834.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01834.jpg">
+    <title><![CDATA[DSC01834]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01987.jpg"
+	thumbURL="thumbs/DSC01987.jpg"
+	linkURL="images/DSC01987.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01987.jpg">
+    <title><![CDATA[DSC01987]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01813.jpg"
+	thumbURL="thumbs/DSC01813.jpg"
+	linkURL="images/DSC01813.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01813.jpg">
+    <title><![CDATA[DSC01813]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02003.jpg"
+	thumbURL="thumbs/DSC02003.jpg"
+	linkURL="images/DSC02003.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC02003.jpg">
+    <title><![CDATA[DSC02003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01961.jpg"
+	thumbURL="thumbs/DSC01961.jpg"
+	linkURL="images/DSC01961.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01961.jpg">
+    <title><![CDATA[DSC01961]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01921.jpg"
+	thumbURL="thumbs/DSC01921.jpg"
+	linkURL="images/DSC01921.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01921.jpg">
+    <title><![CDATA[DSC01921]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01790.jpg"
+	thumbURL="thumbs/DSC01790.jpg"
+	linkURL="images/DSC01790.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01790.jpg">
+    <title><![CDATA[DSC01790]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01781.jpg"
+	thumbURL="thumbs/DSC01781.jpg"
+	linkURL="images/DSC01781.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01781.jpg">
+    <title><![CDATA[DSC01781]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01681.jpg"
+	thumbURL="thumbs/DSC01681.jpg"
+	linkURL="images/DSC01681.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01681.jpg">
+    <title><![CDATA[DSC01681]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01676.jpg"
+	thumbURL="thumbs/DSC01676.jpg"
+	linkURL="images/DSC01676.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01676.jpg">
+    <title><![CDATA[DSC01676]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01840.jpg"
+	thumbURL="thumbs/DSC01840.jpg"
+	linkURL="images/DSC01840.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01840.jpg">
+    <title><![CDATA[DSC01840]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC01942.jpg"
+	thumbURL="thumbs/DSC01942.jpg"
+	linkURL="images/DSC01942.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/20/DSC01942.jpg">
+    <title><![CDATA[DSC01942]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

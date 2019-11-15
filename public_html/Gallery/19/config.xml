@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="2016 Winner for Excellence in Laboratory Safety Award &amp; Grand Prize Winner"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+	showExpandButton="true"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/Screen Shot 2017-02-03 at 3.11.51 PM.jpg"
+	thumbURL="thumbs/Screen Shot 2017-02-03 at 3.11.51 PM.jpg"
+	linkURL="images/Screen Shot 2017-02-03 at 3.11.51 PM.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery1/images/Screen Shot 2017-02-03 at 3.11.51 PM.jpg">
+    <title><![CDATA[Screen Shot 2017-02-03 at 3.11.51 PM]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Schaffer lab.jpg"
+	thumbURL="thumbs/Schaffer lab.jpg"
+	linkURL="images/Schaffer lab.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery1/images/Schaffer lab.jpg">
+    <title><![CDATA[Schaffer lab]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="2007 - BBQ-Ski trip, Lake Tahoe"
+	showOpenButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+
+>
+  <image imageURL="images/AnaWedding.jpg"
+	thumbURL="thumbs/AnaWedding.jpg"
+	linkURL="images/AnaWedding.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/AnaWedding.jpg">
+    <title><![CDATA[AnaWedding]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/BBQ_2.jpg"
+	thumbURL="thumbs/BBQ_2.jpg"
+	linkURL="images/BBQ_2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/BBQ_2.jpg">
+    <title><![CDATA[BBQ_2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/BBQ_3.jpg"
+	thumbURL="thumbs/BBQ_3.jpg"
+	linkURL="images/BBQ_3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/BBQ_3.jpg">
+    <title><![CDATA[BBQ_3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/BBQ_7_crop.jpg"
+	thumbURL="thumbs/BBQ_7_crop.jpg"
+	linkURL="images/BBQ_7_crop.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/BBQ_7_crop.jpg">
+    <title><![CDATA[BBQ_7_crop]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/foosball.jpg"
+	thumbURL="thumbs/foosball.jpg"
+	linkURL="images/foosball.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/foosball.jpg">
+    <title><![CDATA[foosball]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Great America.jpg"
+	thumbURL="thumbs/Great America.jpg"
+	linkURL="images/Great America.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/Great America.jpg">
+    <title><![CDATA[Great America]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GrouppictureSprbig.jpg"
+	thumbURL="thumbs/GrouppictureSprbig.jpg"
+	linkURL="images/GrouppictureSprbig.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/GrouppictureSprbig.jpg">
+    <title><![CDATA[GrouppictureSprbig]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Gruop_photo11.jpg"
+	thumbURL="thumbs/Gruop_photo11.jpg"
+	linkURL="images/Gruop_photo11.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/Gruop_photo11.gif">
+    <title><![CDATA[Gruop_photo11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/party07.jpg"
+	thumbURL="thumbs/party07.jpg"
+	linkURL="images/party07.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/party07.jpg">
+    <title><![CDATA[party07]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Priya and John.jpg"
+	thumbURL="thumbs/Priya and John.jpg"
+	linkURL="images/Priya and John.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/Priya and John.jpg">
+    <title><![CDATA[Priya and John]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/spelunking2.jpg"
+	thumbURL="thumbs/spelunking2.jpg"
+	linkURL="images/spelunking2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/spelunking2.jpg">
+    <title><![CDATA[spelunking2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tahoe lab ski trip 2004_0145.jpg"
+	thumbURL="thumbs/tahoe lab ski trip 2004_0145.jpg"
+	linkURL="images/tahoe lab ski trip 2004_0145.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/tahoe lab ski trip 2004_0145.jpg">
+    <title><![CDATA[tahoe lab ski trip 2004_0145]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tahoe lab ski trip 2004_0147.jpg"
+	thumbURL="thumbs/tahoe lab ski trip 2004_0147.jpg"
+	linkURL="images/tahoe lab ski trip 2004_0147.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/tahoe lab ski trip 2004_0147.jpg">
+    <title><![CDATA[tahoe lab ski trip 2004_0147]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tahoe1.jpg"
+	thumbURL="thumbs/tahoe1.jpg"
+	linkURL="images/tahoe1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/gavinlee/schaffer/Schaffer-Lab/Gallery/2007 - BBQ-Ski trip, Lake Tahoe/tahoe1.jpg">
+    <title><![CDATA[tahoe1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
