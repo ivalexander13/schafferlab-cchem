@@ -57,8 +57,10 @@ var makeHTMLTable = function(listOfObjects, isAlumni) {
 
 // Takes in a person and returns a HTML cell (People page helper)
 var makeHTMLCell = function (person) {
+  var peopleimg =   "<img src=\"img/peoplepics/" + person.firstName + "_" + person.lastName + "." + person["Img Type"] + "\"" + "onerror=\"src='img/peoplepics/placeholder.jpg';\"" + "class=\"center\" width=\"50%\">"
+
   var result = "<td width=\"33%\">";
-  result += "<img src=\"img/peoplepics/" + person.firstName + "_" + person.lastName + "." + person["Img Type"] + "\" class=\"center\" width=\"50%\">"
+  result += peopleimg
   result += "<p class=\"center\">";
   result += "<a href=\"#" + person.firstName + "_" + person.lastName + "\">" + person.lastName + ", " + person.firstName +
              ((person.Nickname) ? (" (" + person.Nickname + ")") : "") +
@@ -88,9 +90,10 @@ var makeHTMLAlumCell = function(alumnus) {
 
 // Takes in a person and returns a HTML snippet (People page helper)
 var makeHTMLPage = function(person) {
+
   var result = '<div class="container webpage" id="' + person.firstName + "_" + person.lastName + '">';
   result += '<div class="page-header">';
-  result += "<img src=\"img/peoplepics/" + person.firstName + "_" + person.lastName + "." + person["Img Type"] + "\" class=\"left\" style=\"max-height:50vh;\">"
+  result += "<img src=\"img/peoplepics/" + person.firstName + "_" + person.lastName + "." + person["Img Type"] + "\"" + "onerror=\"this.src='placeholder.jpg';\"" + "class=\"left\" style=\"max-height:50vh;\">"
 
   result += "<h1>" + person.firstName +
     ((person.Nickname) ? (" (" + person.Nickname + ")") : "") +
