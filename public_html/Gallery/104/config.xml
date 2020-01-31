@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="false"
+	galleryTitle="2019 Holiday Party"
+	showThumbsButton="false"
+	useThumbDots="false"
+	backgroundColor="rgba(34,34,34,0)"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\1.jpg">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-3.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-3.jpg"
+	linkURL="images/SchafferLab_Holiday2019-3.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-3.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-4.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-4.jpg"
+	linkURL="images/SchafferLab_Holiday2019-4.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-4.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-5.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-5.jpg"
+	linkURL="images/SchafferLab_Holiday2019-5.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-5.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-8.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-8.jpg"
+	linkURL="images/SchafferLab_Holiday2019-8.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-8.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-11.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-11.jpg"
+	linkURL="images/SchafferLab_Holiday2019-11.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-11.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-12.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-12.jpg"
+	linkURL="images/SchafferLab_Holiday2019-12.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-12.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-13.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-13.jpg"
+	linkURL="images/SchafferLab_Holiday2019-13.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-13.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-14.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-14.jpg"
+	linkURL="images/SchafferLab_Holiday2019-14.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-14.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-15.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-15.jpg"
+	linkURL="images/SchafferLab_Holiday2019-15.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-15.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-16.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-16.jpg"
+	linkURL="images/SchafferLab_Holiday2019-16.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-16.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-18.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-18.jpg"
+	linkURL="images/SchafferLab_Holiday2019-18.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-18.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-21.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-21.jpg"
+	linkURL="images/SchafferLab_Holiday2019-21.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-21.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-25.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-25.jpg"
+	linkURL="images/SchafferLab_Holiday2019-25.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-25.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-26.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-26.jpg"
+	linkURL="images/SchafferLab_Holiday2019-26.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-26.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-26]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-27.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-27.jpg"
+	linkURL="images/SchafferLab_Holiday2019-27.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-27.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-28.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-28.jpg"
+	linkURL="images/SchafferLab_Holiday2019-28.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-28.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-28]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-30.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-30.jpg"
+	linkURL="images/SchafferLab_Holiday2019-30.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-30.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-31.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-31.jpg"
+	linkURL="images/SchafferLab_Holiday2019-31.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-31.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-32.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-32.jpg"
+	linkURL="images/SchafferLab_Holiday2019-32.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-32.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-36.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-36.jpg"
+	linkURL="images/SchafferLab_Holiday2019-36.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-36.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-38.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-38.jpg"
+	linkURL="images/SchafferLab_Holiday2019-38.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-38.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-39.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-39.jpg"
+	linkURL="images/SchafferLab_Holiday2019-39.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-39.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-40.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-40.jpg"
+	linkURL="images/SchafferLab_Holiday2019-40.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-40.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-41.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-41.jpg"
+	linkURL="images/SchafferLab_Holiday2019-41.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-41.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-41]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-42.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-42.jpg"
+	linkURL="images/SchafferLab_Holiday2019-42.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-42.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-42]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-49.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-49.jpg"
+	linkURL="images/SchafferLab_Holiday2019-49.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-49.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-49]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-51.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-51.jpg"
+	linkURL="images/SchafferLab_Holiday2019-51.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-51.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-51]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-52.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-52.jpg"
+	linkURL="images/SchafferLab_Holiday2019-52.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-52.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-52]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-53.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-53.jpg"
+	linkURL="images/SchafferLab_Holiday2019-53.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-53.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-53]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-54.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-54.jpg"
+	linkURL="images/SchafferLab_Holiday2019-54.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-54.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-54]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-55.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-55.jpg"
+	linkURL="images/SchafferLab_Holiday2019-55.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-55.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-55]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-57.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-57.jpg"
+	linkURL="images/SchafferLab_Holiday2019-57.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-57.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-57]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-61.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-61.jpg"
+	linkURL="images/SchafferLab_Holiday2019-61.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-61.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-61]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-63.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-63.jpg"
+	linkURL="images/SchafferLab_Holiday2019-63.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-63.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-63]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-64.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-64.jpg"
+	linkURL="images/SchafferLab_Holiday2019-64.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-64.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-64]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-68.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-68.jpg"
+	linkURL="images/SchafferLab_Holiday2019-68.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-68.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-68]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-71.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-71.jpg"
+	linkURL="images/SchafferLab_Holiday2019-71.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-71.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-71]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-72.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-72.jpg"
+	linkURL="images/SchafferLab_Holiday2019-72.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-72.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-72]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-73.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-73.jpg"
+	linkURL="images/SchafferLab_Holiday2019-73.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-73.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-73]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-75.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-75.jpg"
+	linkURL="images/SchafferLab_Holiday2019-75.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-75.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-75]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-79.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-79.jpg"
+	linkURL="images/SchafferLab_Holiday2019-79.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-79.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-79]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-82.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-82.jpg"
+	linkURL="images/SchafferLab_Holiday2019-82.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-82.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-82]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-83.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-83.jpg"
+	linkURL="images/SchafferLab_Holiday2019-83.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-83.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-83]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/SchafferLab_Holiday2019-87.jpg"
+	thumbURL="thumbs/SchafferLab_Holiday2019-87.jpg"
+	linkURL="images/SchafferLab_Holiday2019-87.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\User Files\Downloads\Schaffer Lab Holiday Party 2019\SchafferLab_Holiday2019-87.jpg">
+    <title><![CDATA[SchafferLab_Holiday2019-87]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
